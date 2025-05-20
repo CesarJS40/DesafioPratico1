@@ -1,0 +1,14 @@
+C:\Users\mateu\source\repos\DesafioPrático1\DesafioPrático1\bin\Debug\net8.0\DesafioPrático1.exe
+C:\Users\mateu\source\repos\DesafioPrático1\DesafioPrático1\bin\Debug\net8.0\DesafioPrático1.deps.json
+C:\Users\mateu\source\repos\DesafioPrático1\DesafioPrático1\bin\Debug\net8.0\DesafioPrático1.runtimeconfig.json
+C:\Users\mateu\source\repos\DesafioPrático1\DesafioPrático1\bin\Debug\net8.0\DesafioPrático1.dll
+C:\Users\mateu\source\repos\DesafioPrático1\DesafioPrático1\bin\Debug\net8.0\DesafioPrático1.pdb
+C:\Users\mateu\source\repos\DesafioPrático1\DesafioPrático1\obj\Debug\net8.0\DesafioPrático1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\DesafioPrático1\DesafioPrático1\obj\Debug\net8.0\DesafioPrático1.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\DesafioPrático1\DesafioPrático1\obj\Debug\net8.0\DesafioPrático1.AssemblyInfo.cs
+C:\Users\mateu\source\repos\DesafioPrático1\DesafioPrático1\obj\Debug\net8.0\DesafioPrático1.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\DesafioPrático1\DesafioPrático1\obj\Debug\net8.0\DesafioPrático1.dll
+C:\Users\mateu\source\repos\DesafioPrático1\DesafioPrático1\obj\Debug\net8.0\refint\DesafioPrático1.dll
+C:\Users\mateu\source\repos\DesafioPrático1\DesafioPrático1\obj\Debug\net8.0\DesafioPrático1.pdb
+C:\Users\mateu\source\repos\DesafioPrático1\DesafioPrático1\obj\Debug\net8.0\DesafioPrático1.genruntimeconfig.cache
+C:\Users\mateu\source\repos\DesafioPrático1\DesafioPrático1\obj\Debug\net8.0\ref\DesafioPrático1.dll
